@@ -16,7 +16,7 @@ Projeto desenvolvido como desafio no HiringCoders Gama Academy VTEX
 As seguintes ferramentas foram usadas na construção do projeto:
 
 -   HTML
--   CSS
+-   Sass/CSS
 -   Javascript
 -   Bootstrap
 -   GSAP
